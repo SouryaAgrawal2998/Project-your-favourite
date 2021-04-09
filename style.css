@@ -96,4 +96,21 @@ html {
     transform: scale(0.9);
 }
 
+#writings a{
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: blue !important;
+}
+#contacts{
+    background: firebrick; 
+}
+.contacto a{
+    color: white;
+    text-shadow: none;
+}
+.contacto h3{
+    display: inline;
+}
+#contacts iframe{
+    width:100%;
 }
